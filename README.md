@@ -12,7 +12,7 @@ I thrive on transforming messy, large-scale data into evidence-based solutions f
 - 🎓 **PhD in Transport Engineering** @ [Monash University](https://www.monash.edu/) (2021 - 2026)
 - 📡 **Graduate Algorithm Engineer** @ [Huawei Technologies](https://www.huawei.com/) (2019 - 2020)
 - 🔬 **Master of Engineering** @ [USTC](https://en.ustc.edu.cn/) (2016 - 2019)
-- ⚡ **B.Eng. in Electrical Engineering** @ [GZU](https://en.gzu.edu.cn/) (2012 - 2016)
+- ⚡ **B.Eng. in Electrical Engineering** @ [GZU](https://www.gzu.edu.cn/en/) (2012 - 2016)
 
 ---
 
