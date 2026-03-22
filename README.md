@@ -49,7 +49,7 @@
 ---
 
 ### 📜 Publications & Patents
-* 📄 **[Journal 2025]** [Assessing spatial heterogeneous impacts of urban heat island effects](https://www.sciencedirect.com/science/article/pii/S2772586325000577)
+* 📄 **[Journal 2025]** [Assessing the spatial heterogeneous impacts of urban heat island effects on active travel by leveraging social media data](https://www.sciencedirect.com/science/article/pii/S2772586325000577)
 * 📄 **[TRB 2024]** [Identifying active transport from spontaneous data source with natural language processing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xtDZ5SEAAAAJ&citation_for_view=xtDZ5SEAAAAJ:d1gkVwhDpl0C)
 * 📄 **[TRB 2024]** [Investigate the influence of urban heat island effects on active travel behavior by leveraging social media data](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xtDZ5SEAAAAJ&citation_for_view=xtDZ5SEAAAAJ:u-x6o8ySG0sC)
 * 📄 **[ATRF 2024]** [Investigate the travel behaviour of e-scooter riders in Melbourne: A spatiotemporal analysis with PCA](https://australasiantransportresearchforum.org.au/investigate-the-travel-behaviour-of-e-scooter-riders-in-melbourne-a-spatiotemporal-analysis-with-pca/)
