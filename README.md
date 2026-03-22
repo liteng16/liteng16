@@ -49,10 +49,11 @@
 ---
 
 ### 📜 Publications & Patents
-* 📄 **[ATRF 2024]** *Investigate the travel behaviour of e-scooter riders in Melbourne.*
-* 📄 **[TRB 2024]** *Identifying active transport from spontaneous data source with NLP.*
 * 📄 **[Journal 2025]** [Assessing spatial heterogeneous impacts of urban heat island effects](https://www.sciencedirect.com/science/article/pii/S2772586325000577)
-* 💡 **[Patent]** *Method for integrating geotagged location and text location information.*
+* 📄 **[TRB 2024]** [Identifying active transport from spontaneous data source with natural language processing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xtDZ5SEAAAAJ&citation_for_view=xtDZ5SEAAAAJ:d1gkVwhDpl0C)
+* 📄 **[TRB 2024]** [Investigate the influence of urban heat island effects on active travel behavior by leveraging social media data](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xtDZ5SEAAAAJ&citation_for_view=xtDZ5SEAAAAJ:u-x6o8ySG0sC)
+* 📄 **[ATRF 2024]** [Investigate the travel behaviour of e-scooter riders in Melbourne: A spatiotemporal analysis with PCA](https://australasiantransportresearchforum.org.au/investigate-the-travel-behaviour-of-e-scooter-riders-in-melbourne-a-spatiotemporal-analysis-with-pca/)
+* 💡 **[Patent]** [A method for integrating geotagged location and text location information in social media](https://patents.google.com/patent/CN117236316B/zh)
 
 ---
 
