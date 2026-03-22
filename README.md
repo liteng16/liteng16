@@ -1,61 +1,69 @@
-# 👨‍💻 Jason (Teng) Li, PhD 
+<p align="center">
+  <h1>Hi 👋 I'm Jason (Teng) Li</h1>
+</p>
 
-### **Transport Engineer | Data Scientist | Spatial Intelligence Specialist**
+<p align="center">
+  <a href="https://www.linkedin.com/in/jason-li-735702154/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=xtDZ5SEAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+</p>
 
-Welcome to my digital workspace! I am a **PhD-qualified researcher** based in Melbourne, Australia, specializing in the intersection of **Urban Mobility**, **Machine Learning**, and **Spatial Analytics**. 
-
-I thrive on transforming messy, large-scale data into evidence-based solutions for urban infrastructure and sustainable transport.
-
----
-
-### 🏛️ Professional & Academic Journey
-- 🎓 **PhD in Transport Engineering** @ [Monash University](https://www.monash.edu/) (2021 - 2026)
-- 📡 **Graduate Algorithm Engineer** @ [Huawei Technologies](https://www.huawei.com/) (2019 - 2020)
-- 🔬 **Master of Engineering** @ [USTC](https://en.ustc.edu.cn/) (2016 - 2019)
-- ⚡ **B.Eng. in Electrical Engineering** @ [GZU](https://www.gzu.edu.cn/en/) (2012 - 2016)
-
----
-
-### 🛠️ Technical Stack & Skills
-
-| Domain | Expertise |
-| :--- | :--- |
-| **Data Science** | Python (Pandas, Scikit-learn, PySpark), R, SQL, MATLAB |
-| **Spatial Intelligence** | ArcGIS Pro, QGIS, GeoPandas, Spatial Regression |
-| **Engineering** | Traffic Simulation (SUMO), Network Analysis, C++, Signal Processing |
-| **Deep Learning/NLP** | Transformers, LLM Fine-tuning, NER, BERT |
-
----
-
-### 📂 Featured Projects & Research
-* **[LIME Project]**: Analyzing 1M+ trajectory data points to decode e-scooter & active travel behavior in Melbourne.
-* **[Urban NLP]**: Fine-tuning Transformer models to extract mobility insights from noisy social media text.
-* **[5G Simulation]**: Engineered high-fidelity stochastic models for signal propagation at Huawei.
-
----
-
-### 📜 Publications & IP
-- 📄 **[ATRF 2024]** *Investigate the travel behaviour of e-scooter riders in Melbourne.*
-- 📄 **[TRB 2024]** *Identifying active transport from spontaneous data source with NLP.*
-- 📄 **[Journal 2025]** *Assessing the spatial heterogeneous impacts of urban heat island effects.*
-- 💡 **[Patent]** *Method for integrating geotagged location and text location information.*
-
----
-
-### 📊 Professional Profiles
-[<img src="https://www.linkedin.com/in/jason-li-735702154/">](你的LinkedIn链接)
-[<img src="https://scholar.google.com/citations?user=xtDZ5SEAAAAJ&hl=en">](你的Scholar链接)
-
----
-
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight" alt="Jason's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight" alt="Top Langs" />
+<p align="center">
+  🎓 <b>PhD @ Monash University</b> | 🏛️ <b>Transport Engineering</b> | 📍 <b>Melbourne, Australia</b>
+  <br>
+  📧 Email: <a href="mailto:huangshanhf@gmail.com">huangshanhf@gmail.com</a>
 </p>
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: [huangshanhf@gmail.com](mailto:huangshanhf@gmail.com)
-- 📍 Location: Melbourne, VIC, Australia
+### 🔍 Research Interests
+
+> **Urban Mobility & Behavioral Analysis**
+> I work on analyzing 1M+ trajectory data points (GPS/Telemetry) to decode travel patterns in Melbourne. My goal is to transform messy, large-scale data into evidence-based solutions for urban infrastructure and active travel.
+
+> **Spatial Intelligence & Geo-NLP**
+> I focus on fine-tuning Transformer-based LLMs and NER workflows to extract mobility insights from noisy, geotagged social media data, enriching urban spatial databases for policy support.
+
+---
+
+### 🌱 Long-term Vision
+I aspire to bridge the gap between cutting-edge AI research and real-world urban infrastructure impact. By integrating spatial regression, machine learning, and traffic simulation, I hope to drive technical innovation that leads to more sustainable and equitable transport networks.
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Jason's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=default" alt="Top Langs" height="180" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArcGIS-E03527?style=for-the-badge&logo=arcgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+</p>
+
+---
+
+### 📜 Selected Publications & Patents
+* 📄 **[ATRF 2024]** *Investigate the travel behaviour of e-scooter riders in Melbourne.*
+* 📄 **[TRB 2024]** *Identifying active transport from spontaneous data source with NLP.*
+* 📄 **[Journal 2025]** *Assessing the spatial heterogeneous impacts of urban heat island effects.*
+* 💡 **[Patent]** *Method for integrating geotagged location and text location information.*
+
+---
+
+### ✨ Quote
+> *"Do or do not. There is no try." — Yoda*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=你的核心项目名&theme=default" />
+</p>
