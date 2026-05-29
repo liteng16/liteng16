@@ -20,13 +20,20 @@
 
 ---
 
-### 🔬 Research Interests & Vision
+### 💼 About Me
 
-> **Urban Mobility & Behavioral Modeling**
-> My PhD research focuses on analyzing **1M+ high-resolution GPS trajectories** to decode e-scooter and active travel patterns in Melbourne. I aim to bridge the gap between large-scale data and sustainable urban planning.
+PhD-trained **Data Scientist / GIS Scientist** with deep expertise in **spatial analysis, geospatial ML, and large-scale mobility data**. Based in Melbourne, **open to relocation across Australia**.
 
-> **Spatial Intelligence & Geo-NLP**
-> I leverage **Transformer-based LLMs** and NER workflows to extract mobility insights from noisy, geotagged social media data, enhancing evidence-based transport policy for local governments.
+Over my PhD at Monash University, I built end-to-end pipelines that:
+
+- 🛰️ **Process 1M+ GPS trajectories** for shared-mobility analysis (Lime e-scooter & e-bike), including map-matching, speed modelling, and interpretable ML (XGBoost + SHAP)
+- 🗺️ **Apply spatial statistics at city scale** — MGWR, GWR, spatial autocorrelation — to quantify how environment and infrastructure shape travel behaviour
+- 🤖 **Build NLP systems for geospatial text** — BERT-based classifiers and NER for extracting location-tagged events from noisy social media data (also patented)
+- 📊 **Translate complex analytics into decisions** — cartographic outputs in ArcGIS Pro / QGIS, dashboards, and policy-facing reports
+
+**Currently looking for**: GIS Analyst · Geospatial Data Scientist · Transport Data Analyst · Spatial ML roles.
+
+📬 Reach out via [LinkedIn](https://www.linkedin.com/in/jason-li-735702154/) or [email](mailto:huangshanhf@gmail.com).
 
 ---
 
