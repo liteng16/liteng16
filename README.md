@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  🎓 <b>PhD in Transport Engineering @ Monash University</b> | 📍 <b>Melbourne, Australia</b>
+  🎓 **Data Scientist / GIS Scientist** · PhD (Transport Engineering, Monash 2026) | 📍 **Melbourne, AU · Open to relocation**
 </p>
 
 ---
