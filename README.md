@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  🎓 **Data Scientist / GIS Scientist** · PhD (Transport Engineering, Monash 2026) | 📍 **Melbourne, AU · Open to relocation**
+  🎓 **Data Scientist / GIS Scientist** — PhD (Transport Engineering, Monash 2026) | 📍 Melbourne, AU · Open to relocation
 </p>
 
 ---
