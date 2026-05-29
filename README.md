@@ -48,7 +48,7 @@
 - **[NLP for Active Travel](https://github.com/liteng16/phd-portfolio#case-1-unveiling-active-travel-from-social-media-with-nlp)** — BERT pipeline extracting active-travel activity from social media; ~4k POI-level locations recovered from ungeotagged tweets across Greater Melbourne.  
   *Python · BERT · NER · spatial analysis*
 
-- **[Urban Heat Island × Active Travel](https://github.com/liteng16/phd-portfolio#case-2-spatial-heterogeneous-impacts-of-urban-heat-island-on-active-travel)** — First spatial-heterogeneous assessment of UHI on active travel in Melbourne, using Multiscale GWR at Mesh Block resolution.  
+- **[Urban Heat Island × Active Travel](https://github.com/liteng16/phd-portfolio#case-2-spatial-heterogeneous-impacts-of-urban-heat-island-on-active-travel)** — First spatial-heterogeneous assessment of UHI on active travel in Melbourne, using Multiscale GWR at suburb level.  
   *MGWR · spatial regression · ArcGIS Pro*
 
 - **[Shared E-Scooter Speed Modeling](https://github.com/liteng16/phd-portfolio#case-3-non-linear-effects-on-shared-e-scooter-speed)** — Interpretable ML on Lime GPS trajectories; SHAP reveals non-linear thresholds for infrastructure design.  
